@@ -1,4 +1,1 @@
-https://www.geeksforgeeks.org/socket-programming-cc/    basic socket source code
-https://stackoverflow.com/questions/16005710/socket-in-c-infinite-loop      keeping the server in loop
-https://stackoverflow.com/questions/504810/how-do-i-find-the-current-machines-full-hostname-in-c-hostname-and-domain-info
-https://jameshfisher.com/2017/04/05/set_socket_nonblocking/
+Client server model using sockets
