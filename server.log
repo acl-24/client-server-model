@@ -1,0 +1,17 @@
+Using Port 7043
+1669583681.982: # 1 (T6)   from host               Alexs-Air.lan.16044
+1669583681.982: # 2 (T7)   from host               Alexs-Air.lan.16044
+1669583681.982: # 3 (T7)   from host               Alexs-Air.lan.16044
+1669583681.982: # 4 (T8)   from host               Alexs-Air.lan.16044
+1669583681.982: # 5 (T10)   from host               Alexs-Air.lan.16044
+1669583681.982: # 6 (T7)   from host               Alexs-Air.lan.16044
+1669583681.986: # 1 (D6)   from host               Alexs-Air.lan.16044
+1669583681.991: # 2 (D7)   from host               Alexs-Air.lan.16044
+1669583681.996: # 3 (D7)   from host               Alexs-Air.lan.16044
+1669583682.002: # 4 (D8)   from host               Alexs-Air.lan.16044
+1669583682.008: # 5 (D10)   from host               Alexs-Air.lan.16044
+1669583682.012: # 6 (D7)   from host               Alexs-Air.lan.16044
+
+SUMMARY
+6 transactions from               Alexs-Air.lan.16044
+196.9 transactions/sec (6 / 0.030)
